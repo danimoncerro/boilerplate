@@ -1,0 +1,2 @@
+# boilerplate
+Magazin online
